@@ -1,6 +1,6 @@
 # Olá! Eu sou o Luiz Gustavo
 
-- 😎 Gosto de Músicas Relaxantes
+- 😎 Estudante de Análise e Desenvolvimento de Sistemas
 - 🫡 Estudando Linguagem C
 
 <div style="display: inline_block"><br>
